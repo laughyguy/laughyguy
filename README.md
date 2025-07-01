@@ -1,5 +1,3 @@
-Parag Birthday: 29th June
-Uploading Library
 
 <h1 align="center">Hi 👋, I'm Subhadip Das</h1>
 <h3 align="center">A Passionate Software Engineer From India</h3>
