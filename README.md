@@ -4,7 +4,7 @@ Uploading Library
 <h1 align="center">Hi 👋, I'm Subhadip Das</h1>
 <h3 align="center">A Passionate Software Engineer From India</h3>
 
-<img align="right" alt="coding" width="400" src="https://static.tildacdn.biz/tild3930-6134-4666-b963-386462303334/programmer_1.gif"
+<img align="right" alt="coding" width="400" src="https://static.tildacdn.biz/tild3930-6134-4666-b963-386462303334/programmer_1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laughyguy&label=Profile%20views&color=0e75b6&style=flat" alt="laughyguy" /> </p>
 
